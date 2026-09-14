@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="kishan_dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="kishan_light_mode.svg" />
-  <img alt="kishanjha01's GitHub profile" src="kishan_dark_mode.svg" width="900" />
+  <img alt="kishanjha01's GitHub profile" src="kishan_dark_mode.svg" width="1050" />
 </picture>
 
 ## Hi there 👋
