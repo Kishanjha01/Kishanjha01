@@ -44,10 +44,10 @@ I build web applications and enjoy solving algorithmic problems. I like working 
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github\&logoColor=white)](YOUR_GITHUB)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?logo=codeforces\&logoColor=white)](YOUR_CODEFORCES)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode\&logoColor=white)](YOUR_LEETCODE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kishannjha/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github\&logoColor=white)](https://github.com/Kishanjha01)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?logo=codeforces\&logoColor=white)](https://codeforces.com/profile/kishanjha01)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode\&logoColor=white)](https://leetcode.com/u/kishanjhaa/)
 
 ## 🛠️ Tech Stack
 
